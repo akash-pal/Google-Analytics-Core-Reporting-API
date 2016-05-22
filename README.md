@@ -1,5 +1,5 @@
 # Google-Analytics-Core-Reporting-API
-Implemented Google Analytic Core Reporting API using OAuth 2.0 for Server to Server 
+Implemented Google Analytic Core Reporting API using OAuth 2.0 for Server to Server HTTP/REST
 
 https://developers.google.com/identity/protocols/OAuth2ServiceAccount
 
